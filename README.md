@@ -12,9 +12,11 @@ Click [here](https://github.com/erictflores/mealette-backend) to visit the backe
 
 Functionality
 ------------
-Mealette utilizes a user's location and loads the top rated restaurants from yelp onto a carousel.
+Mealette makes it simple and easy for you to find a great restaurant to try out whenever you're in a new city (or a new part of town).
 
-A user is then able to swipe through the restaurant options one by one, or hit a button that spins the carousel, randomly landing on one of the 10 restaurants.
+Mealette utilizes a user's location and loads the top rated restaurants from Yelp onto a carousel.
+
+A user is then able to swipe through the restaurant options one by one, or hit a button that spins the carousel to randomly land on one of the 10 restaurants.
 
 A user is also able to access the restaurant's Yelp page, and get directions to the location using Google Maps.
 
