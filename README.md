@@ -1,6 +1,6 @@
 Mealette (frontend) Overview
 ------------
-mealette.herokuapp.com
+[mealette.herokuapp.com](mealette.herokuapp.com)
 
 Currently only compatible with Android and Chrome
 
