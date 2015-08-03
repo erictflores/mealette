@@ -1,6 +1,7 @@
 Mealette (frontend) Overview
 ------------
 [mealette.herokuapp.com](mealette.herokuapp.com)
+*Slow initial load because it has to wake up the heroku server
 
 Currently only compatible with Android and Chrome
 
